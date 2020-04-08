@@ -1,6 +1,7 @@
 {
     "name": "elevenstack/morsecode",
     "description": "This is a package that you can use for transform a simple text in morse code",
+    "minimum-stability": "stable",
     "keywords": [
         "ElevenStack",
         "morsecode",
@@ -8,6 +9,8 @@
         "translate"
     ],
     "license": "MIT",
+    "type": "library",
+    "version": "1.0",
     "authors": [
         {
             "name": "Guilherme-j10",

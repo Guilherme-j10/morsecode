@@ -1,0 +1,21 @@
+{
+    "name": "elevenstack/morsecode",
+    "description": "This is a package that you can use for transform a simple text in morse code",
+    "keywords": [
+        "ElevenStack",
+        "morsecode",
+        "morse",
+        "translate"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guilherme-j10",
+            "email": "guilhermeZA.123123@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    }
+}

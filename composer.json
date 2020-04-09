@@ -18,6 +18,11 @@
             "role": "Developer"
         }
     ],
+    "autoload":{
+        "psr-4":{
+            "elevenstack\\morsecode\\": "morsecode"
+        }
+    },
     "require": {
         "php": "^7.2"
     }

@@ -8,7 +8,7 @@
         const codemorse = ['.-', '-...', '-.-.', '-..', '.', '..-.', '--.', '....', '..', '.---', '-.-', '.-..','--', '-.', '---', '.--.','--.-', '.-.', '...', '-', '..-', '...-', '.--', '-..-', '-.--', '--..'];
         const codemorse_bar = ['.-/', '-.../', '-.-./', '-../', './', '..-./', '--./', '..../', '../', '.---/', '-.-/', '.-../','--/', '-./', '---/', '.--./','--.-/', '.-./', '.../', '-/', '..-/', '...-/', '.--/', '-..-/', '-.--/', '--../'];
 
-        public function encode($text, $option_bar){
+        public function morse_encode($text, $option_bar){
            switch ($option_bar) {
                 case true:
                    return preg_replace(self::alfabet, self::codemorse_bar, $text);

@@ -7,7 +7,7 @@ Pacote criado para a galera que desja brincar um pouco com o código morse, aqui
     use morsecode\morsecode;
     
     $morse = new morsecode();
-    $encoded = $morse->encode('guilherme', true);
+    $encoded = $morse->morse_encode('guilherme', true);
     echo $encoded; 
     /* 
         code returned:    

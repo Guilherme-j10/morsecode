@@ -10,7 +10,7 @@ Pacote criado para a galera que desja brincar um pouco com o código morse, aqui
     $encoded = $morse->morse_encode('guilherme', true);
     echo $encoded; 
     /* 
-        code returned:    
-        --./..-/../.-../...././.-./--/./
+    *    code returned:    
+    *    --./..-/../.-../...././.-./--/./
     */
 ````

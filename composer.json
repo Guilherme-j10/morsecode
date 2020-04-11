@@ -19,7 +19,7 @@
     ],
     "autoload":{
         "psr-4":{
-            "elevenstack\\morsecode\\": "morsecode"
+            "elevenstack\\src\\": "src"
         }
     },
     "require": {

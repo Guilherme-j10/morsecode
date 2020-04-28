@@ -27,7 +27,7 @@ package created for the folks that want use or learn morse code, here you can pa
 ````
 
 ## Installation using composer
-in cmg: 
+in cli: 
 ````
     $ composer elevenstack/morsecode
 ````
